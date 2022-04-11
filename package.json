@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@form-create/ant-design-vue": "^3.1.5"
+  }
+}
